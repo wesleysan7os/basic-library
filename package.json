@@ -1,0 +1,23 @@
+{
+  "name": "basic-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleysan7os/basic-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleysan7os/basic-library/issues"
+  },
+  "homepage": "https://github.com/wesleysan7os/basic-library#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
