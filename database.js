@@ -12,7 +12,7 @@ const books = [
     id: 2,
     name: "Teoria da Música",
     author: "Bohumil Med",
-    category: "Música",
+    category: "Musica",
     pages: 423,
     recommmend: true,
     read: false
@@ -21,7 +21,7 @@ const books = [
     id: 3,
     name: "O nome do Vento",
     author: "Patrick Rothfuss",
-    category: "Fantasia Épica",
+    category: "Fantasia Epica",
     pages: 656,
     recommmend: true,
     read: true
@@ -30,11 +30,11 @@ const books = [
     id: 4,
     name: "As veias abertas da América Latina",
     author: "Eduardo Galeano",
-    category: "História",
+    category: "Historia",
     pages: 391,
     recommmend: true,
     read: false
   }
 ]
 
-module.export = books;
+module.exports = books;
